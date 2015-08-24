@@ -25,4 +25,5 @@ $ rake
     - 130 : bump version : https://github.com/org/reponame2/pull/130
     - 129 : add plugin foo : https://github.com/org/reponame2/pull/129
     - 162 : add plugin var : https://github.com/org/reponame2/pull/162
+...
 ```
